@@ -1,0 +1,80 @@
+feeder_id,school_name,management,urban_rural,municipality,funding,district
+1,Wesley Jr. College,Anglican,U,Belize City,Government Aided,Belize
+2,Stann Creek Ecumenical Jr. College,Government,U,,Government Aided,Stann Creek
+3,San Pedro Jr. College,Government,U,San Pedro,Government,Belize
+4,Muffles Jr.,Roman Catholic,U,Orange Walk,Government Aided,Orange Walk
+5,John Paul 11 Jr. College,Catholic,U,Benque,Government Aided,Cayo
+6,Independence Jr. College,Government,R,,Government,Stann Creek
+7,Corozal Jr. College,Government,U,Corozal,Government Aided,Corozal
+8,Centro Escolar Mexico Jr. College,Government,R,San Roman Village,Government Aided,Corozal
+9,Belize Adventist Jr. College,Adventist,R,,Government Aided,Corozal
+10,St. John's College Junior College,Roman Catholic,U,Belize City,Government Aided,Belize
+11,Sacred Heart College Junior College,Roman Catholic,U,San Ignacio,Government Aided,Cayo
+12,Belize Technical College,Government,U,Belize City,Government Aided,Belize
+13,University of Belize,Government,U,Belmopan,Government Aided,Cayo
+14,Belize High School of Agriculture,Government,R,,Government,Orange Walk
+15,New Hope High School,Christian,U,Orange Walk,Government Aided,Orange Walk
+16,Bishop Martin High School,Roman Catholic,U,Orange Walk,Government Aided,Orange Walk
+17,Saint Catherine's Academy,Roman Catholic,U,Belize City,Government Aided,Belize
+18,Julian Cho Technical High School,Government,R,,Government,Toledo
+19,Sadie Vernon High School,Government,U,Belize City,Government,Belize
+20,Edward P. Yorke High School,Government,U,Belize City,Government,Belize
+21,Eden SDA High School,Seventh Day Adventist,U,San Ignacio,Government Aided,Cayo
+22,Anglican Cathedral College,Anglican,U,Belize City,Government Aided,Belize
+23,Gwen Lizarraga High School - Evening Division,Government,U,Belize City,Government,Belize
+24,Alvin L. Young Nazarene High School,Nazarene,R,,Government Aided,Cayo
+25,Stann Creek Ecumenical College,Ecumenical,U,Dangriga,Government Aided,Stann Creek
+26,Orange Walk Technical High School,Government,U,Orange Walk,Government Aided,Orange Walk
+27,Sacred Heart College,Roman Catholic,U,San Ignacio,Government Aided,Cayo
+28,Escuela Secundaria Tecnica Mexico,Government,R,,Government,Corozal
+29,St. John's College,Roman Catholic,U,Belize City,Government Aided,Belize
+30,Belmopan Comprehensive School,Government,U,Belmopan,Government,Cayo
+31,Baptist School of Adult Continuing Education,Baptist,U,Belmopan,Government Aided,Cayo
+32,Mopan Technical High School,Government,U,Benque,Government,Cayo
+33,Muffles College,Roman Catholic,U,Orange Walk,Government Aided,Orange Walk
+34,Saint Ignatius High School Adult Education,Roman Catholic,U,San Ignacio,Government Aided,Cayo
+35,Cayo Christian Academy,Christian Community Church,R,,Government Aided,Cayo
+36,Independence High School,Government,R,,Government,Stann Creek
+37,Ladyville Technical High School,Government,R,,Government Aided,Belize
+38,Our Lady of Mount Carmel High School,Roman Catholic,U,Benque,Government Aided,Cayo
+39,San Pedro High School,Government,U,San Pedro,Government,Belize
+40,Wesley College,Anglican,U,Belize City,Government Aided,Belize
+41,Chunox St. Viator Vocational High School,Roman Catholic,U,Corozal,Government Aided,Corozal
+42,Nazarene High School,Nazarene,U,Belize City,Government Aided,Belize
+43,Corazon Creek Technical High School,Government,R,,Government,Toledo
+44,Delille Academy,Catholic,U,Dangriga,Government Aided,Stann Creek
+45,Toledo Community College,Government,U,Punta Gorda,Government Aided,Toledo
+46,Mafredi Vo-Tech School,Government,R,,Government Aided,Toledo
+47,Belize Adventist College,Adventist,R,,Government Aided,Corozal
+48,Gwen Lizarraga High School,Government,U,Belize City,Government,Belize
+49,Belmopan Baptist High School,Baptist,U,Belmopan,Government Aided,Cayo
+50,Saint Ignatius High School,Roman Catholic,U,San Ignacio,Government Aided,Cayo
+51,Corozal Community College,Methodist,U,Corozal,Government Aided,Corozal
+52,Sarteneja Baptist High School,Government,R,,Government,Corozal
+53,Ocean Academy,Private,U,San Pedro,Private,Belize
+54,Belmopan Methodist High School,Methodist,U,Belmopan,Government Aided,Cayo
+55,Belize High School,Private,U,Belize City,Private,Belize
+56,Pallotti High School,Roman Catholic,U,Belize City,Government Aided,Belize
+57,Cornerstone Presbyterian High School,Presbyterian,R,,Government Aided,Corozal
+58,King's College,Union of Evangelical Churches of Belize,R,,Government Aided,Belize
+59,Georgetown Technical High School,Government,R,,Government,Stann Creek
+60,San Pedro Adult Continuing Education,Government,U,San Pedro,Government,Belize
+61,Belize Rural High School,Government,R,,Government,Belize
+62,Providence SDA High School,Seventh Day Adventist,R,,Government Aided,Toledo
+63,Canaan SDA High School,Seventh Day Adventist,U,Belize City,Government Aided,Belize
+64,Corozal Community College ACE,Methodist,U,Corozal,Government Aided,Corozal
+65,Valley of Peace S.D.A. High School,Seventh Day Adventist,R,,Government Aided,Cayo
+66,Our Lady of Guadalupe High School,Roman Catholic,U,Belmopan,Government Aided,Cayo
+67,Maud Williams High School,Government,U,Belize City,Government Aided,Belize
+68,ANRI,Government,R,,Government,Stann Creek
+69,Private Candidate,Private,U,,Private,Belize
+70,Excelsior High School,Government,U,Belize City,Government,Belize
+71,Muffles Junior College,Roman Catholic,U,Orange Walk,Government Aided,Orange Walk
+72,Belize Christian Academy,Private,U,Belmopan,Private,Cayo
+73,San Juan Bautista High School,Roman Catholic,U,Orange Walk,Government Aided,Orange Walk
+74,Claver College Extension,Roman Catholic,U,Punta Gorda,Government Aided,Toledo
+75,Kaina Online High School,Private,U,Belize City,Government Aided,Belize
+76,Stann Creek Ecumenical HS Evening Division,Ecumenical,U,Dangriga,Government Aided,Stann Creek
+77,Jireh Fundamental Education,Mennonite,R,,Private,Cayo
+78,Red Creek Mennonite School,Mennonite,U,San Ignacio,Private,Cayo
+79,NA,NA,N,NA,NA,NA

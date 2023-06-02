@@ -1,0 +1,1311 @@
+student_id,gender,ethnicity,city,district,CODE,PROGRAM,DEGREEID,DEGREE,COURSECODE,COURSETITLE,COURSECREDITS,program_start,program_status,programEnd,grad_date,feeder_id
+1,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,9/26/2000,Dropped,,,12
+4,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/20/2001,Graduated,5/27/2004,5/27/2004,12
+89,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,1/17/2005,Terminated,,,13
+113,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/20/2001,Terminated,,,13
+551,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/20/2008,Transferred,,,13
+639,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/12/2013,Terminated,,,30
+653,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2001,Terminated,1/15/2002,1/15/2002,13
+749,M,East Indian,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,MATH210,DIFFERENTIAL CALCULUS,4,8/13/2007,Terminated,,,13
+1217,F,Mestizo,Cayo,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/18/2001,Graduated,5/27/2004,5/27/2004,10
+1303,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,8/19/2002,Graduated,5/19/2006,5/19/2006,13
+1353,M,East Indian,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/20/2001,Dropped,,,30
+1652,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/20/2001,Terminated,,,51
+2030,F,Other,Cayo,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,1/19/2002,Dropped,,,11
+2077,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/20/2001,Terminated,,,22
+2158,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,3/25/2011,Graduated,5/16/2016,5/16/2016,25
+2515,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/13/2007,Transferred,,,10
+2694,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2022,Dropped,,,11
+2788,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,5/27/2011,Terminated,,,13
+2792,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,1/16/2006,Graduated,5/19/2006,5/19/2006,13
+3136,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/19/2013,Terminated,,,10
+3301,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/20/2001,Terminated,,,79
+3573,M,Mayan,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,MATH210,DIFFERENTIAL CALCULUS,4,8/19/2002,Dropped,,,30
+3593,F,Mestizo,COROZAL TOWN,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/6/2002,Dropped,,,10
+3641,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,4,1/19/2009,Terminated,,,13
+3845,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2171,DATABASE MANAGEMENT SYSTEMS I,3,8/6/2002,Graduated,12/11/2004,12/11/2004,33
+3864,M,Creole,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,7/30/2004,Dropped,,,79
+3874,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/17/2009,Transferred,,,13
+3880,F,Creole,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/6/2002,Dropped,,,10
+4258,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS1015,GENERAL PHYSICS I,3,8/14/2006,Graduated,5/24/2011,5/24/2011,10
+4369,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,5/18/2010,Dropped,,,13
+4395,M,Ketchi,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/15/2005,Dropped,,,13
+4396,F,Garifuna,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH1201,TRIGONOMETRY,3,8/18/2008,Transferred,,,13
+4407,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH1302,CALCULUS I,3,8/16/2002,Graduated,5/30/2005,5/30/2005,79
+4446,F,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,8/16/2004,Graduated,5/19/2006,5/19/2006,13
+4484,M,Mestizo,,Cayo,AINT,Information Technology,11,Associate Degree,PHYS1015L,GENERAL PHYSICS I LAB,1,8/18/2003,Graduated,5/30/2005,5/30/2005,13
+4508,F,Garifuna,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,1/13/2003,Dropped,,,79
+4518,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/18/2003,Graduated,5/30/2005,5/30/2005,13
+4538,M,Oriental,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,1/13/2003,Graduated,5/19/2006,5/19/2006,58
+4566,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,1/13/2003,Graduated,5/19/2006,5/19/2006,7
+4584,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/18/2008,Terminated,,,13
+4602,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,8/18/2003,Graduated,5/19/2008,5/19/2008,30
+4639,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,8/18/2003,Graduated,5/19/2008,5/19/2008,30
+4672,F,Mestizo,,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2003,Graduated,5/19/2006,5/19/2006,27
+4699,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2003,Dropped,,,22
+4706,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,1/1/2021,In Process,,,13
+4716,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/16/2004,Graduated,5/18/2007,5/18/2007,13
+4751,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS1015,GENERAL PHYSICS I,3,8/18/2003,Dropped,,,20
+4758,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2171,DATABASE MANAGEMENT SYSTEMS I,3,8/18/2003,Graduated,5/19/2008,5/19/2008,36
+4788,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/13/2007,Terminated,,,10
+4798,F,East Indian,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/18/2003,Terminated,,,12
+4818,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/18/2003,Terminated,,,20
+4829,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/18/2003,Terminated,,,40
+4859,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/13/2007,Dropped,,,10
+4869,M,Mestizo,SAN NARCISO VILLAGE,COROZAL,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/18/2003,Terminated,,,28
+4880,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/18/2003,Graduated,5/19/2006,5/19/2006,36
+4920,F,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/18/2008,Transferred,,,13
+4929,M,Ketchi,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,1/14/2008,Terminated,,,45
+4934,M,Garifuna,COROZAL DISTRICT,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS244,WEB APPLICATION DEV. 1,3,8/18/2003,Graduated,5/19/2008,5/19/2008,72
+4963,F,Oriental,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/18/2003,Graduated,5/30/2005,5/30/2005,25
+4987,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/18/2003,Graduated,5/19/2006,5/19/2006,30
+5016,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2003,Terminated,,,10
+5031,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,12/15/2005,Terminated,,,40
+5055,M,Mayan,TOLEDO DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,1/17/2011,Dropped,,,13
+5091,M,Mestizo,,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/18/2003,Graduated,5/30/2005,5/30/2005,27
+5116,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/13/2007,Terminated,,,13
+5125,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/18/2003,Terminated,,,32
+5142,F,Creole,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,1/17/2005,Dropped,,,30
+5148,M,Mayan,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2003,Graduated,12/7/2006,12/7/2006,10
+5165,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/18/2003,Dropped,,,71
+5167,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/16/2004,Terminated,,,13
+5181,F,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/18/2003,Terminated,,,27
+5207,M,Mestizo,BULLET TREE FALLS,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/18/2003,Graduated,5/19/2006,5/19/2006,21
+5237,F,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,8/18/2003,Graduated,5/30/2005,5/30/2005,25
+5261,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/18/2003,Terminated,,,79
+5265,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/18/2003,Terminated,,,30
+5287,M,Oriental,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/18/2003,Graduated,12/7/2006,12/7/2006,13
+5320,F,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2009,Graduated,5/24/2011,5/24/2011,13
+5337,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/18/2003,Dropped,,,30
+5359,M,Oriental,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/15/2005,Dropped,,,10
+5385,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,BIOL090,DEVELOPMENTAL BIOLOGY,0,8/14/2006,Terminated,,,13
+5388,M,Creole,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,1/20/2014,Terminated,,,6
+5394,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,1/17/2005,Dropped,,,10
+5400,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CHEM090,DEVELOPMENTAL CHEMISTRY,0,6/29/2005,Terminated,,,13
+5455,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL1014,COLLEGE ENGLISH I,3,7/30/2004,Terminated,,,79
+5464,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH1151,ALGEBRA,3,8/1/2019,In Process,,,22
+5483,M,Creole,HATTIEVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,MATH1201,TRIGONOMETRY,3,5/27/2012,Terminated,,,20
+5501,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/15/2005,Graduated,5/18/2007,5/18/2007,10
+5523,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1134,FUNDAMENTALS OF COMPUTING,3,7/30/2004,Terminated,,,79
+5529,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,NRMP101,ENVIRON. CONSERV & DEVELOPMENT I,3,8/16/2004,Terminated,,,79
+5546,F,Creole,,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS150,COMPUTER BUSINESS APPLICATION,3,8/16/2004,Terminated,,,79
+5555,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,7/30/2004,Terminated,,,79
+5570,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,BCOM210,BUSINESS COMMUNICATION,3,8/18/2008,Transferred,,,10
+5576,F,Mayan,TOLEDO DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/16/2004,Dropped,,,18
+5595,F,Mayan,TOLEDO DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,ACTG202,PRINCIPLES OF FINANCIAL ACTG II,3,7/30/2004,Terminated,,,79
+5606,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,7/30/2004,Terminated,,,79
+5616,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/16/2004,Graduated,5/19/2006,5/19/2006,79
+5642,M,Mestizo,,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/15/2005,Dropped,,,13
+5661,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CHEM090,DEVELOPMENTAL CHEMISTRY,0,8/16/2004,Graduated,5/19/2006,5/19/2006,79
+5686,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,7/30/2004,Terminated,,,79
+5696,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/16/2004,Dropped,,,49
+5702,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/18/2008,Terminated,,,30
+5713,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/16/2004,Transferred,,,79
+5735,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,7/30/2004,Transferred,,,79
+5763,M,Mestizo,Cayo,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/16/2004,Graduated,5/26/2009,5/26/2009,21
+5800,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/16/2004,Terminated,,,22
+5819,M,Oriental,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH210,DIFFERENTIAL CALCULUS,4,8/16/2004,Dropped,,,79
+5826,F,Creole,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/16/2004,Dropped,,,79
+5833,F,Creole,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,7/30/2004,Terminated,,,79
+5845,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/16/2004,Graduated,5/18/2007,5/18/2007,30
+5874,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/16/2004,Graduated,5/19/2006,5/19/2006,79
+5900,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/15/2005,Graduated,5/19/2008,5/19/2008,13
+5923,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/16/2004,Graduated,5/19/2006,5/19/2006,30
+5948,M,Oriental,COROZAL,COROZAL,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/16/2004,Graduated,5/19/2006,5/19/2006,51
+5973,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/5/2005,Terminated,,,79
+5976,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,7/30/2004,Terminated,,,79
+5987,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,4,7/30/2004,Terminated,,,79
+6013,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,MAT090,DEVELOPMENTAL MATHEMATICS,3,7/30/2004,Terminated,,,79
+6018,M,East Indian,STANN CREEK DISTRICT,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/16/2004,Terminated,,,10
+6069,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,1/17/2005,Dropped,,,13
+6081,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,1/26/2004,Graduated,5/19/2006,5/19/2006,13
+6096,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,ENGL090,DEVELOPMENTAL ENGLISH,3,1/17/2005,Graduated,5/19/2006,5/19/2006,13
+6111,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,8/16/2004,Graduated,5/19/2006,5/19/2006,10
+6128,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/16/2004,Graduated,5/19/2006,5/19/2006,79
+6153,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/17/2005,Graduated,7/24/2009,7/24/2009,10
+6191,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,1/5/2005,Terminated,,,79
+6195,M,East Indian,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/17/2005,Dropped,,,12
+6229,F,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS312,COMPUTER ORG. & ASSEMBLY LANG. PROG.,3,1/6/2005,Terminated,,,27
+6243,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,1/6/2005,Terminated,,,10
+6260,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,1/26/2005,Dropped,,,71
+6287,F,Oriental,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,1/17/2005,Terminated,,,79
+6300,F,Creole,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,1/6/2005,Dropped,,,30
+6309,M,Garifuna,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/6/2005,Terminated,,,79
+6316,F,Creole,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,CMPS316,PROGRAMMING LANGUAGES,3,1/17/2005,Dropped,,,84
+6321,M,Caucasian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,1/5/2005,Dropped,,,30
+6332,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,1/17/2005,Graduated,7/24/2009,7/24/2009,38
+6366,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2005,Dropped,,,13
+6373,M,Mayan,TOLEDO,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/18/2008,Terminated,,,45
+6404,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/15/2005,Terminated,,,26
+6423,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS314,ALGORITHMS,3,8/15/2005,Graduated,5/26/2009,5/26/2009,20
+6461,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH480,LINEAR PROGRAMMING.,3,6/2/2005,Dropped,,,22
+6467,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,4,8/15/2005,Graduated,5/22/2012,5/22/2012,20
+6498,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH330,DISCRETE MATHEMATHICS,3,8/1/2022,In Process,,,63
+6524,F,Creole,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH441,NUMERICAL ANALYSIS,3,8/15/2005,Transferred,,,33
+6554,F,Creole,SAN PEDRO TOWN,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2016,Dropped,,,67
+6591,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/14/2006,Dropped,,,13
+6599,F,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/13/2007,Transferred,,,2
+6611,F,Mestizo,NULL,NULL,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/20/2008,Terminated,,,13
+6623,M,Creole,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,EENG2151,LANGUAGE METHODS FOR PRIMARY SCHOOL TEACHERS I,3,8/15/2005,Graduated,5/22/2012,5/22/2012,27
+6666,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MGMT1014,FUNDAMENTALS OF MANAGEMENT,3,6/2/2005,Terminated,,,25
+6672,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/19/2013,Terminated,,,13
+6674,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,EMAT1101,COLLEGE MATH FOR PRIMARY SCHOOL TEACHERS I,3,8/15/2005,Transferred,,,63
+6713,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/15/2005,Dropped,,,40
+6720,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL3105,LANGUAGE AND COMMUNICATION,3,8/15/2005,Transferred,,,49
+6743,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,PHIL1014,ETHICS,3,1/14/2008,Terminated,,,13
+6756,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2005,Dropped,,,30
+6762,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/15/2005,Graduated,5/16/2008,5/16/2008,30
+6793,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,1/16/2006,Graduated,5/19/2008,5/19/2008,13
+6816,M,East Indian,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2020,In Process,,,30
+6848,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,8/18/2014,Terminated,,,79
+6853,F,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,6/2/2005,Terminated,,,27
+6880,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,6/2/2005,Terminated,,,49
+6887,F,Garifuna,STANN CREEK,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2005,Transferred,,,36
+6896,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,5/31/2005,Dropped,,,30
+6904,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/15/2005,Transferred,,,49
+6934,M,Creole,JANE USHER AREA,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/20/2008,Graduated,5/25/2010,5/25/2010,13
+6960,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/15/2005,Transferred,,,72
+7018,F,East Indian,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,6/2/2005,Dropped,,,10
+7020,M,Caucasian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,6/2/2005,Terminated,,,49
+7026,M,Creole,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,1/16/2006,Dropped,,,13
+7065,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/15/2005,Dropped,,,20
+7079,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/15/2005,Terminated,,,48
+7090,M,Creole,STANN CREEK DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,6/2/2005,Terminated,,,30
+7096,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/15/2005,Transferred,,,47
+7126,M,Creole,LORDS BANK   VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,6/2/2005,Dropped,,,22
+7135,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/17/2015,in process,,,30
+7186,F,Mestizo,,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/15/2005,Graduated,12/14/2007,12/14/2007,32
+7217,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/15/2005,Dropped,,,33
+7226,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2005,Graduated,7/21/2007,7/21/2007,27
+7253,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,6/2/2005,Terminated,,,30
+7258,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/12/2013,Graduated,5/14/2018,5/14/2018,13
+7293,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/15/2005,Terminated,,,32
+7335,F,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,6/2/2005,Dropped,,,18
+7340,M,Mestizo,-,COROZAL,AINT,Information Technology,11,Associate Degree,EDUC240,EDUCATIONAL PSYCHOLOGY 1,3,8/12/2013,Graduated,7/25/2014,7/25/2014,13
+7407,M,Mestizo,TOLEDO DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,6/9/2005,Transferred,,,18
+7424,M,Mayan,TOLEDO,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,6/10/2005,Terminated,,,45
+7430,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,4,1/16/2006,Terminated,,,13
+7439,F,Ketchi,STANN CREEK,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/15/2005,Dropped,,,36
+7448,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,6/30/2005,Dropped,,,12
+7452,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,7/4/2005,Terminated,,,20
+7457,M,Mayan,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS332,P C REPAIR,3,8/1/2018,Terminated,,,45
+7467,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/20/2013,Transferred,,,11
+7477,M,Other,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,11/7/2005,Terminated,,,58
+7492,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,1/16/2006,Dropped,,,47
+7505,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/14/2006,Dropped,,,22
+7512,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,5/9/2006,Terminated,,,48
+7535,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/14/2006,Graduated,5/26/2009,5/26/2009,72
+7575,M,Mestizo,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,ACTG201,PRINCIPLES OF ACCOUNTING I,3,5/31/2006,Terminated,,,37
+7581,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL090,DEVELOPMENTAL ENGLISH,3,8/14/2006,Terminated,,,25
+7631,M,Creole,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL1014,COLLEGE ENGLISH I,3,8/14/2006,Transferred,,,36
+7662,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MGMT1014,FUNDAMENTALS OF MANAGEMENT,3,1/15/2007,Graduated,5/19/2008,5/19/2008,13
+7687,M,Oriental,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,PHYS1015,GENERAL PHYSICS I,3,8/13/2007,Terminated,,,13
+7707,M,Creole,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2171,DATABASE MANAGEMENT SYSTEMS I,3,8/15/2016,Terminated,,,13
+7710,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,8/14/2006,Dropped,,,32
+7746,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,2/10/2006,Terminated,,,30
+7755,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2111,SYSTEMS ANALYSIS,3,2/10/2006,Transferred,,,27
+7770,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,8/14/2006,Graduated,5/25/2010,5/25/2010,30
+7800,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,8/14/2006,Graduated,12/12/2011,12/12/2011,37
+7842,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2151,WEB DEVELOPMENT,3,4/24/2006,Transferred,,,27
+7869,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,1/24/2006,Graduated,5/25/2010,5/25/2010,25
+7902,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH1201,TRIGONOMETRY,3,8/14/2006,Dropped,,,30
+7914,M,Creole,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1212,BASIC PC REPAIR,3,8/14/2006,Graduated,5/24/2011,5/24/2011,20
+7950,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL1025,COLLEGE ENGLISH II,3,8/14/2006,Terminated,,,48
+7962,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST1014,INTRODUCTION TO BELIZEAN HISTORY,3,12/11/2006,Terminated,,,30
+7973,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC1014,INTRODUCTION TO PSYCHOLOGY,3,1/4/2018,Dropped,,,30
+8005,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN1025,LEVEL 2 LOWER-INTERMEDIATE SPANISH,3,1/27/2006,Terminated,,,30
+8013,F,Other,COROZAL TOWN,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,4/28/2006,Dropped,,,7
+8016,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS2992,PROJECT,3,4/28/2006,Terminated,,,12
+8026,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1014,INTRODUCTION TO COMPUTER STUDIES,3,8/14/2006,Graduated,5/25/2010,5/25/2010,42
+8062,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/13/2007,Transferred,,,56
+8067,F,Mestizo,DOUGLAS VILLAGE,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH1302,CALCULUS I,3,2/25/2006,Terminated,,,2
+8073,M,Creole,STANN CREEK,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/14/2006,Graduated,5/25/2010,5/25/2010,25
+8109,F,Creole,STANN CREEK,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,8/15/2006,Graduated,5/19/2014,5/19/2014,25
+8147,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2131,DATA STRUCTURES,3,8/14/2006,Dropped,,,32
+8153,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,5/30/2006,Terminated,,,48
+8171,M,East Indian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2252,OPERATING SYSTEMS,3,8/17/2009,Terminated,,,79
+8182,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS1015L,GENERAL PHYSICS I LAB,1,5/31/2012,Transferred,,,10
+8205,F,Creole,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,8/14/2006,Terminated,,,27
+8221,M,Mestizo,COROZAL,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS2212,GUI PROGRAMMING,3,8/18/2008,Dropped,,,13
+8234,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2232,OBJECT ORIENTED SYSTEM DEVELOPMENT,3,6/13/2006,Terminated,,,27
+8241,F,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,2/11/2006,Terminated,,,79
+8247,M,Mestizo,,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH1151,ALGEBRA,3,8/14/2006,Graduated,12/14/2009,12/14/2009,26
+8271,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN1015,LEVEL 1 BEGINNERS SPANISH,3,8/14/2006,Terminated,,,48
+8286,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,5/30/2006,Dropped,,,48
+8294,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL1014,INTRODUCTION TO SOCIOLOGY,3,8/14/2006,Terminated,,,10
+8300,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,SPAN202,LEVEL 4 HIGH-INTERMEDIATE SPANISH,3,5/18/2010,Terminated,,,11
+8307,F,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/14/2006,Graduated,5/19/2008,5/19/2008,10
+8326,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,5/31/2006,Terminated,,,79
+8339,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/14/2006,Graduated,5/26/2009,5/26/2009,25
+8375,F,Mestizo,COROZAL,COROZAL,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/14/2006,Terminated,,,51
+8397,F,Creole,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,5/29/2006,Terminated,,,32
+8404,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/18/2008,Terminated,,,13
+8420,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,7/6/2006,Terminated,,,27
+8428,M,East Indian,TOLEDO,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/13/2007,Dropped,,,45
+8440,F,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,1/15/2007,Terminated,,,79
+8473,M,Mestizo,Cayo,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,7/6/2006,Terminated,,,32
+8492,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/15/2007,Graduated,5/26/2009,5/26/2009,30
+8521,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/14/2006,Terminated,,,72
+8554,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/14/2006,Terminated,,,48
+8593,M,Mayan,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS244,WEB APPLICATION DEV. 1,3,8/19/2013,Terminated,,,13
+8602,F,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/14/2006,Dropped,,,21
+8620,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/14/2006,Terminated,,,11
+8640,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,12/11/2006,Dropped,,,30
+8675,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PLAS0014,SPANISH PLACEMENT EXAM,0,8/13/2007,Graduated,5/13/2012,5/13/2012,30
+8704,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PHIL1014,ETHICS,3,12/11/2006,Terminated,,,48
+8721,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,1/15/2007,Graduated,12/14/2009,12/14/2009,30
+8751,M,Mestizo,,ORANGE WALK,AINT,Information Technology,11,Associate Degree,SPAN2015,LEVEL 3 INTERMEDIATE SPANISH,3,12/11/2006,Terminated,,,26
+8780,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2111,SYSTEMS ANALYSIS,3,12/11/2006,Terminated,,,30
+8789,M,Oriental,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1134,FUNDAMENTALS OF COMPUTING,3,12/11/2006,Terminated,,,63
+8792,M,Mayan,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH1151,ALGEBRA,3,12/11/2006,Terminated,,,45
+8804,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/13/2007,Graduated,5/24/2011,5/24/2011,25
+8834,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1134,FUNDAMENTALS OF COMPUTING,3,8/13/2007,Graduated,5/26/2009,5/26/2009,79
+8858,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,8/13/2007,Graduated,5/26/2009,5/26/2009,30
+8884,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1212,BASIC PC REPAIR,3,8/13/2007,Graduated,5/24/2011,5/24/2011,20
+8921,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/13/2007,Transferred,,,37
+8942,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,1/14/2008,Graduated,5/24/2011,5/24/2011,32
+8989,M,Creole,,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/18/2008,Terminated,,,66
+9015,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/13/2007,Terminated,,,30
+9021,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/13/2007,Graduated,5/25/2010,5/25/2010,33
+9047,M,Mestizo,STANN CREEK DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/13/2007,Graduated,12/12/2011,12/12/2011,25
+9076,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1134,FUNDAMENTALS OF COMPUTING,3,8/13/2007,Terminated,,,79
+9093,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/13/2007,Dropped,,,79
+9123,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN1015,LEVEL 1 BEGINNERS SPANISH,3,1/20/2013,Transferred,,,13
+9126,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2008,Terminated,,,49
+9140,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/13/2007,Transferred,,,17
+9152,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/13/2007,Terminated,,,27
+9181,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/13/2007,Terminated,,,40
+9202,F,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/13/2007,Graduated,5/25/2009,5/25/2009,79
+9230,M,Creole,,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/13/2007,Dropped,,,30
+9237,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/13/2007,Transferred,,,30
+9244,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/13/2007,Transferred,,,30
+9289,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/13/2007,Transferred,,,49
+9299,M,Mayan,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/13/2007,Terminated,,,30
+9318,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/13/2007,Dropped,,,27
+9331,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,5/14/2010,Terminated,,,30
+9355,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/13/2007,Dropped,,,45
+9367,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/20/2008,Graduated,7/20/2012,7/20/2012,79
+9396,F,Mestizo,,STANN CREEK,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/13/2007,Transferred,,,36
+9406,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/13/2007,Transferred,,,30
+9431,F,Mayan,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/19/2009,Transferred,,,45
+9433,M,Mestizo,,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/18/2008,Terminated,,,79
+9458,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/13/2007,Dropped,,,36
+9464,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/13/2007,Transferred,,,30
+9490,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/13/2007,Dropped,,,30
+9504,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/13/2007,Terminated,,,30
+9510,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/16/2012,Graduated,5/19/2014,5/19/2014,10
+9532,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/13/2007,Terminated,,,10
+9548,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/13/2007,Terminated,,,66
+9567,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,1/19/2009,Terminated,,,79
+9590,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/14/2008,Terminated,,,32
+9613,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,1/14/2008,Graduated,12/20/2010,12/20/2010,66
+9649,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/20/2008,Transferred,,,49
+9683,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,MATH090,REMEDIAL MATH,0,1/14/2008,Graduated,5/22/2012,5/22/2012,32
+9719,M,Mestizo,,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/20/2008,Graduated,5/22/2012,5/22/2012,13
+9751,M,Creole,ORANGE WALK,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/12/2013,Terminated,,,9
+9760,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,1/14/2008,Terminated,,,11
+9764,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,1/14/2008,Dropped,,,66
+9772,M,Creole,BURRELL BOOM VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,ENG090,REMEDIAL ENGLISH,0,1/14/2008,Dropped,,,10
+9779,F,Mayan,,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,1/14/2008,Transferred,,,18
+9791,F,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,1/14/2008,Graduated,5/18/2015,5/18/2015,18
+9822,F,Mayan,,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/18/2008,Transferred,,,18
+9828,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,1/14/2008,Terminated,,,30
+9834,M,Other,Belmopan City,BELIZE,AINT,Information Technology,11,Associate Degree,PHIL210,ETHICS,3,8/13/2012,Terminated,,,13
+9838,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,5/17/2010,Dropped,,,85
+9851,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/18/2010,Graduated,5/19/2014,5/19/2014,61
+9876,F,Creole,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/18/2008,Terminated,,,21
+9888,M,Mayan,,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/20/2008,Graduated,5/25/2010,5/25/2010,36
+9916,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/18/2014,Dropped,,,13
+9939,M,Creole,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/18/2008,Terminated,,,49
+9942,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/15/2016,Terminated,,,40
+9965,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2008,Terminated,,,22
+9970,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/20/2008,Graduated,12/12/2011,12/12/2011,27
+10001,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2008,Terminated,,,20
+10004,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/18/2008,Transferred,,,25
+10013,M,Creole,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,6/16/2008,Transferred,,,79
+10018,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/20/2008,Dropped,,,45
+10034,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/18/2008,Transferred,,,30
+10074,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/8/2008,Terminated,,,44
+10086,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/20/2008,Graduated,12/20/2010,12/20/2010,40
+10114,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/18/2008,Terminated,,,44
+10145,F,Creole,HATTIEVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/18/2008,Dropped,,,48
+10156,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,1/16/2012,Transferred,,,13
+10173,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/20/2008,Transferred,,,42
+10182,M,Mayan,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/20/2008,Graduated,5/25/2010,5/25/2010,32
+10208,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/20/2008,Graduated,5/25/2010,5/25/2010,26
+10239,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/20/2008,Graduated,5/25/2010,5/25/2010,30
+10266,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/18/2008,Terminated,,,40
+10275,M,Caucasian,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/18/2008,Terminated,,,79
+10293,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/18/2008,Terminated,,,47
+10306,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/20/2008,Dropped,,,30
+10321,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/20/2008,Graduated,5/25/2010,5/25/2010,32
+10347,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/18/2008,Terminated,,,25
+10375,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH203,CALCULUS II,3,8/18/2008,Transferred,,,66
+10382,F,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/20/2008,Graduated,5/24/2011,5/24/2011,48
+10415,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2019,In Process,,,13
+10427,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/18/2008,Transferred,,,66
+10437,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/17/2015,Terminated,,,27
+10446,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/20/2008,Graduated,1/29/2011,1/29/2011,30
+10471,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,1/19/2009,Terminated,,,79
+10500,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/18/2008,Terminated,,,28
+10506,F,East Indian,BELIZE DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/13/2012,Dropped,,,10
+10533,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,8/18/2008,Terminated,,,10
+10542,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS244,WEB APPLICATION DEV. 1,3,1/19/2009,Terminated,,,79
+10565,M,Creole,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,1/20/2013,Terminated,,,13
+10568,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2018,In Process,,,30
+10591,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,1/18/2010,Terminated,,,13
+10601,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/19/2013,Terminated,,,13
+10609,F,Creole,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/12/2013,Terminated,,,13
+10614,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/20/2008,Graduated,12/20/2010,12/20/2010,13
+10627,M,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2008,Terminated,,,26
+10646,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/20/2008,Terminated,,,79
+10653,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/18/2008,Terminated,,,79
+10669,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/20/2008,Dropped,,,32
+10677,M,East Indian,INDIANVILLE,TOLEDO,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,1/19/2009,Terminated,,,79
+10697,F,Garifuna,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS319,SYSTEMS ENGINEERING,3,8/18/2008,Terminated,,,30
+10715,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/18/2008,Dropped,,,44
+10720,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/18/2008,Dropped,,,30
+10731,M,Mestizo,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH210,DIFFERENTIAL CALCULUS,4,8/18/2008,Terminated,,,25
+10734,M,Creole,,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,1/19/2009,Terminated,,,79
+10762,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2008,Terminated,,,48
+10773,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/20/2008,Transferred,,,20
+10785,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,4,8/15/2016,Terminated,,,13
+10788,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/17/2011,Terminated,,,13
+10793,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/17/2009,Transferred,,,29
+10801,M,Mestizo,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,5/15/2009,Dropped,,,25
+10807,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/17/2009,Graduated,5/24/2011,5/24/2011,30
+10832,M,Mestizo,ORANGE WALK DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/4/2009,Transferred,,,79
+10840,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS146,PROGRAMMING FOUNDATIONS,4,8/17/2009,Terminated,,,32
+10859,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/3/2012,Terminated,,,20
+10863,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/17/2009,Transferred,,,30
+10870,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/17/2009,Graduated,5/22/2012,5/22/2012,40
+10889,M,Mestizo,-,COROZAL,AINT,Information Technology,11,Associate Degree,MATH210,DIFFERENTIAL CALCULUS,4,8/17/2009,Dropped,,,28
+10901,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2009,Dropped,,,27
+10914,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/17/2009,Terminated,,,63
+10925,F,Mestizo,SAN PEDRO TOWN,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/17/2009,Terminated,,,39
+10955,M,Creole,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/17/2009,Terminated,,,20
+10958,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/17/2009,Dropped,,,30
+10971,M,Creole,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/17/2009,Transferred,,,45
+10977,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2009,Dropped,,,27
+10983,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/17/2009,Dropped,,,17
+11004,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2009,Graduated,5/24/2011,5/24/2011,66
+11029,F,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/17/2009,Graduated,5/24/2011,5/24/2011,72
+11054,M,East Indian,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/17/2009,Transferred,,,79
+11082,M,Mestizo,SAN NARCISO VILLAGE,COROZAL,AINT,Information Technology,11,Associate Degree,MATH102,COMPLEX NUMBERS & VECTORS,3,8/17/2009,Terminated,,,28
+11096,M,Mestizo,SAN ANTONIO VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMCN209,COMMUNICATION SKILLS,3,8/17/2009,Dropped,,,27
+11107,M,Mestizo,SAN LAZARO VILLAGE,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/17/2009,Graduated,12/12/2011,12/12/2011,26
+11132,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/17/2009,Transferred,,,26
+11138,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/17/2009,Graduated,12/12/2011,12/12/2011,30
+11164,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/17/2009,Transferred,,,30
+11169,M,Mestizo,INDEPENDENCE VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2009,Terminated,,,36
+11191,F,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/17/2009,Dropped,,,86
+11198,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/17/2009,Graduated,5/24/2011,5/24/2011,33
+11224,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH210,DIFFERENTIAL CALCULUS,4,8/17/2009,Graduated,5/24/2011,5/24/2011,40
+11250,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/17/2009,Terminated,,,48
+11277,F,East Indian,SANDHILL VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/13/2012,Graduated,12/7/2015,12/7/2015,10
+11301,M,East Indian,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2020,In Process,,,10
+11319,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/15/2011,Terminated,,,79
+11344,M,Creole,BURRELL BOOM VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,5/17/2010,Dropped,,,79
+11353,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,5/30/2011,Terminated,,,30
+11356,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2009,Dropped,,,20
+11371,M,East Indian,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/17/2009,Dropped,,,20
+11378,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS244,WEB APPLICATION DEV. 1,3,8/19/2013,Dropped,,,66
+11404,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/17/2009,Terminated,,,79
+11423,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH203,CALCULUS II,3,8/17/2009,Graduated,5/22/2012,5/22/2012,25
+11449,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/17/2009,Terminated,,,79
+11462,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/7/2009,Transferred,,,79
+11468,M,Creole,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,1/20/2014,Dropped,,,13
+11471,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/16/2010,Terminated,,,13
+11506,M,Creole,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,1/17/2010,Dropped,,,45
+11517,M,Mayan,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,1/19/2010,Terminated,,,45
+11521,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH1302,CALCULUS I,3,8/17/2015,Graduated,12/10/2018,12/10/2018,27
+11551,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,12/8/2009,Terminated,,,49
+11564,M,East Indian,,Cayo,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,12/8/2009,Terminated,,,27
+11580,M,Garifuna,STANN CREEK,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,1/18/2010,Graduated,12/12/2019,12/12/2019,21
+11618,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/18/2014,Graduated,12/4/2017,12/4/2017,66
+11654,M,Mayan,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,8/16/2010,Dropped,,,30
+11688,F,Mayan,BENQUE VIEJO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/17/2015,Terminated,,,45
+11692,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,5/13/2010,Terminated,,,22
+11702,M,Unknown,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,5/13/2010,Dropped,,,20
+11725,M,Caucasian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,8/16/2010,Dropped,,,72
+11743,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,5/13/2010,Terminated,,,30
+11750,M,Caucasian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMCN209,COMMUNICATION SKILLS,3,5/13/2010,Terminated,,,51
+11753,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH203,CALCULUS II,3,5/14/2010,Graduated,12/10/2012,12/10/2012,25
+11782,M,Ketchi,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,5/14/2010,Terminated,,,66
+11822,M,Mestizo,STANN CREEK DISTRICT,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/16/2010,Dropped,,,36
+11828,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/16/2010,Graduated,7/19/2013,7/19/2013,66
+11854,F,Garifuna,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,5/14/2010,Terminated,,,30
+11886,F,Mestizo,VALLEY OF PEACE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/16/2010,Dropped,,,30
+11891,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,5/14/2010,Terminated,,,38
+11900,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,5/14/2010,Terminated,,,10
+11908,M,Mestizo,SANTA FAMILIA VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,5/14/2010,Terminated,,,32
+11930,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/17/2011,Dropped,,,32
+11964,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/16/2010,Graduated,5/22/2012,5/22/2012,27
+11989,F,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1212,BASIC PC REPAIR,3,8/16/2010,Dropped,,,27
+11995,M,Unknown,BURRELL BOOM VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL1025,COLLEGE ENGLISH II,3,5/17/2010,Terminated,,,61
+12009,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH1151,ALGEBRA,3,5/17/2010,Terminated,,,56
+12021,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MGMT1014,FUNDAMENTALS OF MANAGEMENT,3,8/16/2010,Terminated,,,32
+12041,M,Mayan,TOLEDO DISTICT,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS2151,WEB DEVELOPMENT,3,5/17/2010,Terminated,,,45
+12064,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2191,NETWORKING 1,3,5/17/2010,Terminated,,,66
+12069,F,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2212,GUI PROGRAMMING,3,8/16/2010,Graduated,5/19/2014,5/19/2014,50
+12112,M,Mestizo,ORANGE WALK  DISTRICT,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH3251,CALCULUS III,3,5/17/2010,Terminated,,,73
+12118,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS2111,SYSTEMS ANALYSIS,3,8/16/2010,Terminated,,,40
+12132,F,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1014,INTRODUCTION TO COMPUTER STUDIES,3,5/17/2010,Dropped,,,49
+12173,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST1014,INTRODUCTION TO BELIZEAN HISTORY,3,8/16/2010,Graduated,12/10/2012,12/10/2012,66
+12198,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH1302,CALCULUS I,3,8/16/2010,Dropped,,,26
+12207,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH3151,LINEAR ALGEBRA,3,8/26/2014,Terminated,,,49
+12227,M,Mestizo,ORANGE WALK  DISTRICT,ORANGE WALK,AINT,Information Technology,11,Associate Degree,PHIL1014,ETHICS,3,8/15/2016,Terminated,,,26
+12262,M,Unknown,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,SPAN2015,LEVEL 3 INTERMEDIATE SPANISH,3,5/17/2010,Terminated,,,2
+12276,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,8/16/2010,Dropped,,,11
+12281,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2131,DATA STRUCTURES,3,8/15/2011,Terminated,,,13
+12297,M,Mestizo,TOLEDO DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS2171,DATABASE MANAGEMENT SYSTEMS I,3,6/4/2010,Terminated,,,36
+12322,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS2992,PROJECT,3,8/16/2010,Dropped,,,10
+12333,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL1014,COLLEGE ENGLISH I,3,6/4/2010,Terminated,,,30
+12350,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH1201,TRIGONOMETRY,3,6/4/2010,Terminated,,,30
+12354,M,Other,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH2201,CALCULUS II,3,6/4/2010,Terminated,,,27
+12358,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS1015,GENERAL PHYSICS I,3,8/18/2014,Terminated,,,10
+12370,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/1/2020,Terminated,,,30
+12375,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2232,OBJECT ORIENTED SYSTEM DEVELOPMENT,3,8/14/2017,Terminated,,,79
+12398,F,Mayan,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS2252,OPERATING SYSTEMS,3,1/20/2014,Dropped,,,79
+12404,M,Creole,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,6/28/2011,Terminated,,,79
+12412,M,Mestizo,ROARING CREEK VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,5/27/2011,Terminated,,,66
+12422,F,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,1/16/2012,Graduated,5/22/2012,5/22/2012,13
+12429,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/15/2011,Terminated,,,13
+12432,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/15/2011,Graduated,5/13/2013,5/13/2013,27
+12455,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,7/13/2010,Terminated,,,11
+12461,M,Creole,,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,7/15/2010,Terminated,,,22
+12466,M,Garifuna,COROZAL TOWN,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/16/2010,Graduated,12/12/2011,12/12/2011,51
+12478,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,3/25/2011,Dropped,,,30
+12487,M,Mestizo,TOLEDO,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,3/25/2011,Terminated,,,45
+12503,M,Mayan,COROZAL,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,3/25/2011,Terminated,,,18
+12519,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,3/25/2011,Terminated,,,30
+12520,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/12/2013,Graduated,12/4/2017,12/4/2017,27
+12554,M,Garifuna,STANN CREEK,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,3/25/2011,Terminated,,,2
+12575,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,1/16/2017,Terminated,,,30
+12585,F,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/15/2011,Dropped,,,30
+12591,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,3/25/2011,Terminated,,,30
+12594,F,Mestizo,,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2011,Dropped,,,17
+12604,F,East Indian,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/13/2012,Transferred,,,13
+12617,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/15/2011,Graduated,12/4/2017,12/4/2017,30
+12656,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/15/2016,Graduated,5/16/2016,5/16/2016,13
+12706,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/16/2012,Graduated,12/7/2015,12/7/2015,27
+12729,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/13/2012,Graduated,5/19/2014,5/19/2014,13
+12753,M,Creole,CITY OF BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/13/2012,Terminated,,,13
+12793,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/19/2013,Dropped,,,79
+12797,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/1/2019,In Process,,,30
+12829,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/9/2012,Dropped,,,79
+12847,M,Creole,STANN CREEK,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/19/2013,Graduated,5/18/2015,5/18/2015,13
+12859,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,5/27/2011,Transferred,,,71
+12868,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,5/27/2011,Terminated,,,9
+12872,M,Creole,STANN CREEK,BELIZE,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/15/2011,Graduated,5/13/2013,5/13/2013,2
+12896,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,5/27/2011,Terminated,,,66
+12909,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/15/2011,Terminated,,,30
+12930,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,5/27/2011,Dropped,,,27
+12948,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,5/27/2011,Terminated,,,66
+12953,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,5/27/2011,Terminated,,,27
+12958,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH102,COMPLEX NUMBERS & VECTORS,3,1/4/2018,Terminated,,,66
+12980,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/16/2011,Terminated,,,20
+12997,M,Mayan,,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,5/27/2011,Terminated,,,49
+13000,M,Mayan,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/18/2014,Graduated,12/12/2016,12/12/2016,36
+13028,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,5/27/2011,Dropped,,,40
+13065,M,Garifuna,STANN CREEK,BELIZE,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/15/2011,Dropped,,,79
+13072,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PHYS242,PHYSICS 11,3,5/27/2011,Terminated,,,17
+13083,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,5/27/2011,Terminated,,,30
+13102,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,5/27/2011,Terminated,,,10
+13110,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,5/27/2011,Terminated,,,49
+13113,M,Oriental,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,5/27/2011,Terminated,,,27
+13140,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/15/2011,Graduated,6/13/2013,6/13/2013,27
+13165,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,5/27/2011,Dropped,,,27
+13181,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/15/2011,Graduated,5/13/2013,5/13/2013,40
+13206,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,1/16/2012,Graduated,5/19/2014,5/19/2014,13
+13231,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,5/30/2011,Terminated,,,66
+13237,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,5/30/2011,Transferred,,,30
+13259,F,Mestizo,,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/15/2011,Terminated,,,39
+13284,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2018,Terminated,,,66
+13298,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,5/30/2011,Terminated,,,40
+13302,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,5/30/2011,Graduated,5/14/2018,5/14/2018,27
+13334,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,5/30/2011,Graduated,5/19/2014,5/19/2014,27
+13369,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,5/30/2011,Dropped,,,10
+13380,M,Mayan,SAN ANTONIO VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,5/30/2011,Terminated,,,27
+13388,M,Creole,Cayo,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/17/2015,Terminated,,,79
+13392,M,Mestizo,COROZAL TOWN,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,1/18/2012,Dropped,,,79
+13410,M,Garifuna,TOLEDO,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/15/2011,Graduated,5/18/2015,5/18/2015,45
+13440,M,Creole,,BELIZE,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,1/16/2012,Terminated,,,13
+13444,M,Mestizo,,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/15/2011,Terminated,,,39
+13461,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,12/1/2015,Terminated,,,80
+13466,F,East Indian,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,5/30/2012,Terminated,,,40
+13471,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,5/30/2011,Dropped,,,10
+13475,F,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/19/2013,Terminated,,,13
+13520,F,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,1/14/2013,Dropped,,,79
+13547,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,1/14/2013,Graduated,5/15/2017,5/15/2017,30
+13569,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/18/2014,Dropped,,,79
+13572,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,6/1/2012,Terminated,,,27
+13578,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/13/2012,Graduated,5/16/2016,5/16/2016,42
+13612,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,6/1/2012,Dropped,,,27
+13627,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,5/27/2012,Terminated,,,32
+13642,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/19/2013,In Process,,,13
+13685,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/16/2012,Graduated,5/18/2015,5/18/2015,25
+13712,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ACTG201,PRINCIPLES OF ACCOUNTING I,3,8/19/2013,Terminated,,,79
+13718,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2012,Terminated,,,30
+13721,M,Mestizo,SAN PEDRO AMBERGRIS CAYE,BELIZE,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,5/27/2012,Terminated,,,3
+13727,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PHIL210,ETHICS,3,5/29/2012,Terminated,,,66
+13757,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ECON222,PRINCIPLES OF ECONOMICS (MICRO),3,5/29/2012,Transferred,,,10
+13769,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,5/29/2012,Dropped,,,32
+13778,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/13/2012,Terminated,,,17
+13804,M,Mestizo,SANTA FAMILIA VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,5/29/2012,Terminated,,,32
+13813,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/16/2012,Dropped,,,20
+13822,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,5/29/2012,Terminated,,,11
+13826,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/13/2012,Graduated,5/18/2015,5/18/2015,30
+13853,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,5/29/2012,Terminated,,,66
+13868,M,Mestizo,GUINEA GRASS VILLAGE,ORANGE WALK,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,5/29/2012,Graduated,5/16/2016,5/16/2016,26
+13898,M,Oriental,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/13/2012,Graduated,5/19/2014,5/19/2014,11
+13923,M,Creole,COROZAL TOWN,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/13/2012,Graduated,5/16/2016,5/16/2016,51
+13961,F,Mestizo,,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,5/29/2012,Dropped,,,79
+13973,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,5/29/2012,Graduated,5/16/2016,5/16/2016,27
+14001,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/13/2012,Graduated,12/4/2017,12/4/2017,30
+14043,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,5/30/2012,Terminated,,,25
+14069,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/17/2015,terminated,,,2
+14085,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/13/2012,Graduated,5/16/2016,5/16/2016,66
+14117,M,Creole,,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/14/2013,Terminated,,,13
+14120,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,5/31/2012,Dropped,,,15
+14123,F,Mestizo,ONTARIO VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,5/31/2012,Terminated,,,35
+14129,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/13/2012,Graduated,7/25/2014,7/25/2014,40
+14154,M,Mayan,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,5/31/2012,Dropped,,,27
+14159,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,5/31/2012,Terminated,,,32
+14185,M,Mestizo,TRIAL FARM,ORANGE WALK,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/13/2012,Graduated,5/18/2015,5/18/2015,26
+14213,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2019,Dropped,,,25
+14244,M,Oriental,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,5/31/2012,Transferred,,,27
+14263,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,5/31/2012,Dropped,,,27
+14267,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2018,Terminated,,,49
+14279,M,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,SOCL225,INTRO. TO CULTURAL ANTHROPOLOGY,3,5/31/2012,Graduated,12/7/2015,12/7/2015,11
+14310,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,5/31/2012,Dropped,,,11
+14327,M,Mayan,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/12/2013,Graduated,5/16/2016,5/16/2016,30
+14355,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/19/2013,Terminated,,,13
+14359,M,East Indian,LADYVILLE,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,1/20/2013,Terminated,,,63
+14364,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2014,Graduated,12/12/2016,12/12/2016,79
+14392,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/19/2013,Terminated,,,10
+14394,M,Creole,,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/13/2012,Terminated,,,20
+14404,F,Garifuna,STANN CREEK DISTRICT,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/12/2013,Dropped,,,79
+14409,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2018,Dropped,,,13
+14422,M,Mayan,STANN CREEK DISTRICT,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/19/2013,Transferred,,,13
+14434,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/12/2013,Graduated,5/16/2016,5/16/2016,10
+14457,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/12/2013,Dropped,,,27
+14465,F,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/12/2013,Dropped,,,30
+14470,F,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/19/2013,Dropped,,,72
+14476,M,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/18/2014,Graduated,7/28/2017,7/28/2017,27
+14506,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2013,Graduated,5/20/2022,5/20/2022,20
+14551,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/12/2013,Terminated,,,27
+14559,M,Oriental,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/12/2013,Transferred,,,10
+14581,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH250,APPLIED MATHEMATICS,3,8/12/2013,Transferred,,,10
+14589,F,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/12/2013,Dropped,,,30
+14595,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/12/2013,Terminated,,,32
+14601,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/12/2013,Terminated,,,56
+14604,M,Mayan,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/12/2013,Terminated,,,27
+14621,M,Mestizo,TOLEDO   DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/12/2013,Transferred,,,45
+14629,F,Mestizo,SANTA ELENA,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/12/2013,Graduated,12/12/2016,12/12/2016,27
+14655,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/12/2013,Graduated,12/4/2017,12/4/2017,49
+14681,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,5/12/2013,Transferred,,,30
+14693,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/12/2013,Terminated,,,47
+14703,M,Mayan,SAN MIGUEL VILLAGE,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/18/2014,Terminated,,,79
+14713,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/12/2013,Dropped,,,72
+14717,M,Mestizo,STANN CREEK,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/12/2013,Transferred,,,36
+14733,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/12/2013,Terminated,,,30
+14741,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/12/2013,Graduated,12/7/2015,12/7/2015,72
+14766,M,East Indian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/12/2013,Dropped,,,66
+14772,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/12/2013,Dropped,,,72
+14778,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/19/2013,Terminated,,,10
+14801,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/19/2013,Graduated,5/18/2015,5/18/2015,30
+14826,F,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/12/2013,Transferred,,,30
+14835,M,Mayan,TOLEDO   DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/12/2013,Terminated,,,45
+14841,M,Mayan,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/12/2013,Dropped,,,27
+14846,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/12/2013,Graduated,5/16/2016,5/16/2016,27
+14873,M,Creole,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/12/2013,Terminated,,,50
+14881,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/12/2013,Terminated,,,10
+14885,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/12/2013,Dropped,,,21
+14897,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/19/2013,Graduated,7/22/2016,7/22/2016,30
+14922,F,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,ENGL090,DEVELOPMENTAL ENGLISH,0,8/12/2013,Terminated,,,15
+14928,M,Mestizo,ORANGE WALK,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/12/2013,Terminated,,,15
+14932,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/12/2013,Transferred,,,66
+14939,M,Creole,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/12/2013,Graduated,5/18/2015,5/18/2015,35
+14964,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2016,Terminated,,,13
+14978,F,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/14/2017,Terminated,,,66
+14982,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2021,In Process,,,30
+14997,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/15/2022,In Process,,,30
+15005,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,1/20/2014,Terminated,,,13
+15014,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2016,Terminated,,,13
+15018,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2014,Terminated,,,13
+15025,F,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/19/2013,Terminated,,,2
+15032,F,Creole,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN201,LEVEL 3 INTERMEDIATE SPANISH,3,8/19/2013,Dropped,,,10
+15051,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/19/2013,Dropped,,,10
+15056,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/19/2013,Terminated,,,11
+15069,M,Garifuna,HOPKINS VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/19/2013,Terminated,,,2
+15072,M,Creole,-,Belize City,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/19/2013,Terminated,,,10
+15083,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/19/2013,Terminated,,,10
+15093,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS244,WEB APPLICATION DEV. 1,3,8/19/2013,Transferred,,,25
+15105,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/19/2013,In Process,,,40
+15149,M,Caucasian,CAMALOTE VILLAGE,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/19/2013,Terminated,,,30
+15152,F,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/19/2013,Dropped,,,45
+15156,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/19/2013,Terminated,,,20
+15167,M,Creole,-,Belize City,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/19/2013,Dropped,,,20
+15173,M,Mayan,SANTA ROSA VILLAGE,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/19/2013,Terminated,,,36
+15186,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/19/2013,Dropped,,,27
+15191,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/19/2013,Terminated,,,28
+15209,M,Creole,-,Belize City,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/19/2013,Terminated,,,19
+15215,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/19/2013,Dropped,,,20
+15227,M,Creole,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,ACTG201,PRINCIPLES OF ACCOUNTING I,3,8/19/2013,Dropped,,,20
+15235,M,Garifuna,CHICAGO,Illinois,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,8/19/2013,Terminated,,,79
+15268,M,Creole,-,Belize City,AINT,Information Technology,11,Associate Degree,ACTG202,PRINCIPLES OF FINANCIAL ACTG II,3,8/19/2013,Dropped,,,20
+15273,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/19/2013,Dropped,,,66
+15293,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/17/2015,Terminated,,,13
+15317,F,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2022,In Process,,,30
+15326,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/18/2014,Terminated,,,13
+15331,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/19/2013,Terminated,,,50
+15335,M,Garifuna,TOLEDO DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/19/2013,Transferred,,,45
+15344,M,Mestizo,Cayo,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/19/2013,Terminated,,,11
+15359,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/19/2013,Terminated,,,2
+15368,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,1/20/2014,Dropped,,,10
+15374,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,1/19/2015,Graduated,5/14/2018,5/14/2018,13
+15400,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,1/20/2013,Terminated,,,66
+15410,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,1/20/2013,Terminated,,,27
+15414,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,1/20/2013,Dropped,,,30
+15418,F,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,1/20/2014,Transferred,,,30
+15421,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,1/20/2013,Terminated,,,49
+15424,F,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/20/2014,Terminated,,,7
+15427,M,Garifuna,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,1/20/2014,terminated,,,81
+15453,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,1/20/2013,Graduated,5/16/2016,5/16/2016,30
+15480,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/20/2014,Terminated,,,66
+15487,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,1/20/2014,Transferred,,,66
+15493,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/20/2013,Terminated,,,20
+15499,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,1/20/2013,Graduated,5/15/2017,5/15/2017,35
+15525,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,1/20/2014,Transferred,,,30
+15529,M,Mestizo,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,1/20/2013,Graduated,5/20/2022,5/20/2022,10
+15571,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,1/20/2014,Transferred,,,49
+15576,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,1/20/2013,Dropped,,,10
+15582,F,Other,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,1/20/2013,Dropped,,,72
+15588,F,Ketchi,-,TOLEDO,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,1/20/2014,terminated,,,18
+15598,F,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/20/2013,Dropped,,,32
+15628,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,1/20/2013,Dropped,,,30
+15639,F,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,1/20/2014,Dropped,,,25
+15656,M,Creole,-,TOLEDO,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,1/20/2014,terminated,,,45
+15661,M,Caucasian,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/20/2013,Terminated,,,27
+15690,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,1/20/2012,Transferred,,,25
+15694,F,Creole,Cayo DISTRICT,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,1/20/2014,Transferred,,,30
+15698,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,1/20/2014,Terminated,,,50
+15712,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/18/2014,Transferred,,,79
+15715,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,1/20/2014,Transferred,,,27
+15719,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,1/20/2014,Terminated,,,66
+15725,F,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/20/2014,Transferred,,,79
+15729,F,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/20/2014,Terminated,,,44
+15731,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,1/20/2013,Dropped,,,49
+15734,F,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2019,Terminated,,,30
+15742,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/18/2014,Terminated,,,30
+15760,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/18/2018,Graduated,12/9/2022,12/9/2022,35
+15800,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/14/2017,Terminated,,,25
+15814,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/18/2014,Graduated,5/16/2016,5/16/2016,66
+15840,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/18/2014,Terminated,,,27
+15841,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/18/2014,Dropped,,,66
+15851,M,Creole,-,DANGRIGA,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/18/2014,Terminated,,,25
+15852,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/18/2014,Terminated,,,66
+15875,M,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2014,Terminated,,,27
+15876,M,East Indian,-,TOLEDO,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/18/2014,Terminated,,,18
+15877,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/18/2014,Dropped,,,26
+15883,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/18/2014,Terminated,,,27
+15884,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/18/2014,Graduated,6/19/2020,6/19/2020,48
+15929,M,Mayan,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2018,In Process,,,30
+15974,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/18/2014,Terminated,,,20
+15975,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/18/2014,Graduated,5/20/2021,5/20/2021,45
+16014,F,Garifuna,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/18/2014,Terminated,,,66
+16015,F,Garifuna,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/18/2014,Graduated,5/15/2017,5/15/2017,56
+16046,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/18/2014,Terminated,,,10
+16047,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/18/2014,Terminated,,,36
+16061,M,Mestizo,-,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/18/2014,Graduated,5/15/2017,5/15/2017,36
+16092,F,Caucasian,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/18/2014,Transferred,,,72
+16103,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/18/2014,Terminated,,,36
+16104,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/18/2014,Terminated,,,36
+16112,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/8/2014,Terminated,,,35
+16127,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/18/2014,Dropped,,,37
+16134,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/18/2014,Terminated,,,35
+16161,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/18/2014,Terminated,,,51
+16168,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/18/2014,Terminated,,,27
+16189,F,Garifuna,BELIZE DISTRICT,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/18/2014,Terminated,,,37
+16198,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/18/2014,Terminated,,,70
+16199,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/18/2014,Terminated,,,45
+16200,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2014,Graduated,7/27/2019,7/27/2019,30
+16233,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2020,Terminated,,,30
+16239,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/18/2014,Terminated,,,27
+16256,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/18/2014,Terminated,,,66
+16257,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/18/2014,Terminated,,,40
+16258,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/18/2014,terminated,,,56
+16272,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2014,Graduated,12/9/2020,12/9/2020,30
+16315,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/18/2014,Terminated,,,20
+16316,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/18/2014,Dropped,,,79
+16317,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/18/2014,Terminated,,,12
+16320,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH1151,ALGEBRA,3,8/17/2015,Dropped,,,66
+16339,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1131,PROGRAMMING I,3,8/1/2018,Graduated,6/9/2020,6/9/2020,13
+16353,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1171,INTRODUCTION TO DATABASES,3,1/19/2015,Graduated,5/15/2017,5/15/2017,27
+16377,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1211,HARDWARE FUNDAMENTALS,3,8/15/2016,Terminated,,,49
+16378,M,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS1232,PRINCIPLES OF PROGRAMMING II,3,1/19/2015,Dropped,,,13
+16382,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,PLAS0014,SPANISH PLACEMENT EXAM,0,8/15/2016,Graduated,5/14/2018,5/14/2018,13
+16407,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,SPAN1025,LEVEL 2 LOWER-INTERMEDIATE SPANISH,3,8/18/2014,Terminated,,,79
+16412,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH1201,TRIGONOMETRY,3,8/18/2014,Terminated,,,25
+16418,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS1134,FUNDAMENTALS OF COMPUTING,3,8/15/2016,Dropped,,,79
+16419,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH1302,CALCULUS I,3,8/17/2015,Terminated,,,40
+16428,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/18/2014,Graduated,12/4/2017,12/4/2017,22
+16462,M,Garifuna,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,PHIL210,ETHICS,3,8/18/2014,Dropped,,,45
+16477,M,Mestizo,Cayo DISTRICT,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/18/2014,Graduated,5/14/2018,5/14/2018,30
+16509,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/18/2014,Graduated,12/12/2019,12/12/2019,66
+16551,M,Other,-,Cayo,AINT,Information Technology,11,Associate Degree,BIOL121,GENERAL BIOLOGY I,3,1/1/2019,Terminated,,,79
+16567,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CHEM121L,GENERAL CHEMISTRY I LAB,0,8/17/2015,Dropped,,,13
+16589,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,NRMP101,ENVIRON. CONSERV & DEVELOPMENT I,3,8/18/2014,Dropped,,,30
+16602,F,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/18/2014,Dropped,,,17
+16612,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/18/2014,Dropped,,,72
+16627,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/18/2014,Graduated,5/16/2019,5/16/2019,20
+16663,F,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/18/2014,Graduated,12/4/2017,12/4/2017,11
+16696,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/18/2014,Dropped,,,25
+16712,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,BIOL121L,GENERAL BIOLOGY I LAB,0,8/18/2014,Terminated,,,25
+16716,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,NRMP208,PEOPLE AND PARKS,3,8/17/2015,Graduated,12/10/2018,12/10/2018,21
+16745,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/19/2019,Graduated,12/9/2021,12/9/2021,82
+16768,M,Mestizo,ORANGE WALK,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2015,Terminated,,,71
+16773,M,East Indian,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/17/2015,Terminated,,,40
+16790,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH102,COMPLEX NUMBERS & VECTORS,3,1/1/2021,In Process,,,13
+16795,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/17/2015,Terminated,,,45
+16803,M,Mayan,TOLEDO DISTRICT,TOLEDO,AINT,Information Technology,11,Associate Degree,PHYS242,PHYSICS 11,3,8/17/2015,Dropped,,,45
+16809,M,Oriental,-,TOLEDO,AINT,Information Technology,11,Associate Degree,ANTH221,INTRODUCTION TO ANTHROPOLOGY,3,8/17/2015,Graduated,7/28/2017,7/28/2017,45
+16836,F,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CHEM121,GENERAL CHEMISTRY I,4,8/17/2015,Dropped,,,18
+16841,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/17/2015,Terminated,,,17
+16842,F,Mestizo,COROZAL TOWN,COROZAL,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/17/2015,Graduated,12/4/2017,12/4/2017,51
+16871,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/17/2015,Dropped,,,25
+16878,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/17/2015,Terminated,,,25
+16879,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/17/2015,Terminated,,,45
+16883,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,BIOL121,GENERAL BIOLOGY I,3,8/17/2015,Graduated,5/14/2018,5/14/2018,45
+16908,M,Caucasian,-,Cayo,AINT,Information Technology,11,Associate Degree,BIOL121L,GENERAL BIOLOGY I LAB,0,8/19/2019,Graduated,5/20/2021,5/20/2021,13
+16920,M,Mayan,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/18/2016,Graduated,6/19/2020,6/19/2020,13
+16952,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,NRMP105,INTRODUCTION TO MARINE ECOLOGY,3,1/14/2019,In Process,1/9/2023,1/9/2023,66
+16974,F,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/17/2015,Dropped,,,25
+16993,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/17/2015,terminated,,,38
+17004,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/17/2015,terminated,,,24
+17013,M,Creole,8.5 M WESTERN HWY,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/17/2017,Terminated,,,40
+17037,M,Creole,LADYVILLE VILLAGE,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/17/2015,Graduated,5/15/2017,5/15/2017,10
+17066,M,Oriental,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2015,Terminated,,,25
+17094,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/17/2015,Dropped,,,66
+17110,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/17/2015,Terminated,,,30
+17115,F,Other,-,SAN PEDRO,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/17/2015,Terminated,,,39
+17116,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2015,Terminated,,,30
+17147,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/14/2023,Dropped,,,45
+17149,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH090,REMEDIAL MATH,3,8/17/2015,terminated,,,20
+17153,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/17/2015,Terminated,,,30
+17157,M,Mayan,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/17/2015,Terminated,,,22
+17163,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/17/2015,Dropped,,,27
+17169,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/17/2015,Terminated,,,30
+17197,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/17/2015,Terminated,,,27
+17204,M,Mestizo,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/17/2015,Terminated,,,55
+17205,M,East Indian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/1/2019,Terminated,,,30
+17220,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/17/2015,Terminated,,,35
+17228,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/17/2015,Graduated,7/27/2019,7/27/2019,30
+17262,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/17/2015,Graduated,7/28/2017,7/28/2017,30
+17288,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/17/2015,Terminated,,,66
+17318,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENG090,REMEDIAL ENGLISH,0,8/17/2015,Terminated,,,30
+17324,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2015,Graduated,7/22/2022,7/22/2022,30
+17368,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/15/2016,Terminated,,,66
+17387,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/17/2015,Graduated,12/10/2018,12/10/2018,30
+17418,M,East Indian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/17/2015,In Process,,,35
+17454,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/17/2015,Dropped,,,27
+17461,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/17/2015,Terminated,,,33
+17462,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2015,Terminated,,,10
+17463,M,East Indian,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/17/2015,Terminated,,,66
+17464,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/17/2015,Terminated,,,27
+17465,M,Oriental,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2016,Terminated,,,13
+17493,M,Creole,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,1/18/2016,Graduated,5/14/2018,5/14/2018,13
+17515,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2015,Graduated,5/20/2022,5/20/2022,79
+17555,F,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2015,Dropped,,,66
+17556,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2019,Terminated,,,1
+17566,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/17/2015,Terminated,,,49
+17568,F,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2015,Terminated,,,29
+17570,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/17/2015,terminated,,,40
+17575,M,Creole,Belize,NULL,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/17/2015,Terminated,,,22
+17576,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/17/2015,Terminated,,,40
+17581,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/17/2015,Terminated,,,20
+17591,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2015,Dropped,,,40
+17603,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/17/2015,In Process,,,40
+17640,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/17/2015,Terminated,,,40
+17653,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/17/2015,Terminated,,,40
+17666,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/17/2015,Terminated,,,40
+17667,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/14/2017,Graduated,5/20/2022,5/20/2022,42
+17703,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/17/2015,Terminated,,,38
+17724,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2015,Graduated,12/12/2019,12/12/2019,25
+17759,F,Garifuna,Cayo DISTRICT,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/17/2015,Terminated,,,44
+17761,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/17/2015,Terminated,,,35
+17762,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/17/2015,Dropped,,,66
+17774,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/17/2015,Graduated,5/15/2017,5/15/2017,25
+17802,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/17/2015,Graduated,5/14/2018,5/14/2018,45
+17833,M,Mestizo,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2015,terminated,,,63
+17842,M,Other,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/17/2015,terminated,,,36
+17850,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SOST290,SOCI/POL ISSUES  IN BELIZEAN DEV.,3,8/17/2015,Terminated,,,79
+17854,F,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/14/2017,Graduated,5/16/2019,5/16/2019,79
+17882,M,Mayan,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/17/2015,Dropped,,,18
+17888,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/15/2016,Dropped,,,30
+17904,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2016,Terminated,,,25
+17936,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2016,Terminated,,,36
+17945,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/15/2016,Terminated,,,25
+17975,M,Mestizo,-,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2022,In Process,,,28
+17981,F,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/15/2016,Graduated,12/12/2019,12/12/2019,17
+18008,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,1/1/2022,In Process,,,66
+18014,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/15/2016,Graduated,7/27/2018,7/27/2018,25
+18043,M,Unknown,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2016,Terminated,,,59
+18052,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2016,Graduated,12/9/2020,12/9/2020,72
+18079,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/15/2016,Terminated,,,30
+18081,M,Unknown,-,TOLEDO,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2016,Terminated,,,43
+18089,M,Ketchi,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/15/2016,Dropped,,,45
+18096,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/14/2017,Terminated,,,13
+18100,M,Unknown,-,TOLEDO,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/14/2017,Dropped,,,45
+18114,M,Unknown,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/15/2016,Graduated,7/27/2018,7/27/2018,37
+18141,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/15/2016,Graduated,12/12/2019,12/12/2019,27
+18171,F,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2016,Dropped,,,20
+18191,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/15/2016,Graduated,5/14/2018,5/14/2018,30
+18219,M,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/15/2016,Graduated,5/14/2018,5/14/2018,42
+18247,F,Creole,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/13/2018,Graduated,5/20/2022,5/20/2022,13
+18269,F,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/15/2016,Terminated,,,56
+18274,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/14/2017,Terminated,,,66
+18285,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/15/2016,Graduated,12/12/2019,12/12/2019,72
+18318,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2016,Graduated,7/22/2022,7/22/2022,27
+18355,M,Unknown,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2016,Terminated,,,53
+18363,F,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/15/2016,Terminated,,,17
+18365,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/15/2016,Terminated,,,30
+18385,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/14/2017,Graduated,5/16/2019,5/16/2019,30
+18401,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/15/2016,Terminated,,,30
+18426,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/15/2016,Dropped,,,27
+18439,M,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/15/2016,Terminated,,,39
+18473,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/15/2016,Graduated,5/14/2018,5/14/2018,72
+18501,M,Unknown,-,TOLEDO,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/15/2016,Terminated,,,18
+18505,M,East Indian,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/15/2016,Graduated,5/16/2019,5/16/2019,27
+18533,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/15/2016,Terminated,,,20
+18534,F,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/15/2016,Terminated,,,49
+18548,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/15/2016,Terminated,,,27
+18549,M,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,1/16/2017,Dropped,,,13
+18564,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/15/2016,Graduated,5/16/2019,5/16/2019,38
+18594,M,Unknown,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2016,Graduated,12/10/2018,12/10/2018,20
+18620,F,Unknown,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/15/2016,Graduated,5/14/2018,5/14/2018,66
+18649,M,Mayan,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/15/2016,Terminated,,,53
+18659,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/15/2016,Terminated,,,30
+18660,M,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/15/2016,Terminated,,,42
+18662,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/15/2016,Graduated,12/9/2020,12/9/2020,66
+18700,M,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/15/2016,Graduated,6/19/2020,6/19/2020,40
+18734,F,East Indian,-,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2016,Terminated,,,20
+18742,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/14/2017,Graduated,6/19/2020,6/19/2020,13
+18768,F,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2021,In Process,,,13
+18776,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2016,Graduated,12/12/2019,12/12/2019,27
+18805,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/15/2016,Terminated,,,30
+18806,F,Unknown,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH203,CALCULUS II,3,8/15/2022,In Process,,,13
+18813,M,Unknown,SAN PEDRO TOWN,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/15/2016,Dropped,,,3
+18821,M,Unknown,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS244,WEB APPLICATION DEV. 1,3,8/15/2016,Terminated,,,70
+18826,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/16/2017,Graduated,5/16/2019,5/16/2019,30
+18855,M,Unknown,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/14/2017,Terminated,,,13
+18871,M,Garifuna,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/9/2016,Terminated,,,30
+18880,F,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS360,MANAGEMENT INFORMATION SYSTEM,3,8/14/2017,Dropped,,,56
+18897,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH203,CALCULUS II,3,8/1/2018,Terminated,,,36
+18904,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,Terminated,,,13
+18913,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2018,Terminated,,,49
+18916,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/14/2017,Terminated,,,65
+18926,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/14/2017,Terminated,,,30
+18931,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/14/2017,Terminated,,,30
+18936,M,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/14/2017,Terminated,,,63
+18943,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,1/4/2018,Dropped,,,10
+18959,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/14/2017,Terminated,,,38
+18969,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/14/2017,Terminated,,,54
+18978,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/14/2017,Terminated,,,45
+19000,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/18/2018,Graduated,12/9/2022,12/9/2022,40
+19032,M,Unknown,-,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/14/2017,Terminated,,,53
+19042,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/14/2017,Dropped,,,25
+19072,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/14/2017,Dropped,,,1
+19083,M,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/14/2017,Terminated,,,63
+19094,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/14/2017,In Process,,,27
+19136,M,Mestizo,BELMOPAN,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/14/2017,Terminated,,,30
+19156,F,Unknown,-,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/14/2017,Terminated,,,36
+19165,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/14/2017,In Process,,,66
+19196,M,Creole,#NAME?,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/14/2017,Dropped,,,20
+19212,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/14/2017,In Process,,,27
+19253,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/14/2017,Terminated,,,53
+19262,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2018,In Process,,,37
+19298,M,Mestizo,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2018,Graduated,7/31/2020,7/31/2020,25
+19325,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2018,Terminated,,,27
+19330,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2018,Terminated,,,27
+19344,M,Mestizo,BENQUE VIEJO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/1/2019,Dropped,,,27
+19357,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2018,Terminated,,,30
+19363,F,Other,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2018,Terminated,,,21
+19373,M,Other,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/14/2017,Terminated,,,35
+19376,F,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/14/2017,Graduated,5/20/2022,5/20/2022,25
+19412,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/14/2017,Terminated,,,66
+19444,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/14/2017,Terminated,,,26
+19451,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/14/2017,Dropped,,,62
+19472,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/14/2017,Graduated,5/16/2019,5/16/2019,25
+19499,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/14/2017,Dropped,,,38
+19529,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/14/2017,Terminated,,,20
+19542,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/14/2017,Dropped,,,30
+19549,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/14/2017,Graduated,5/16/2019,5/16/2019,30
+19575,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/14/2017,Terminated,,,66
+19598,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/14/2017,Graduated,5/16/2019,5/16/2019,30
+19625,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/14/2017,Dropped,,,30
+19633,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/14/2017,Terminated,,,20
+19650,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/14/2017,Graduated,5/16/2019,5/16/2019,32
+19676,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/14/2017,Graduated,5/16/2019,5/16/2019,30
+19702,M,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/14/2017,Terminated,,,27
+19716,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/14/2017,Terminated,,,27
+19732,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/14/2017,Terminated,,,30
+19752,M,East Indian,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/14/2017,Dropped,,,45
+19769,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/14/2017,Dropped,,,27
+19783,M,Mestizo,BENQUE VEJIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/14/2017,Graduated,7/23/2021,7/23/2021,38
+19817,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN101,LEVEL 1 BEGINNING SPANISH,3,8/14/2017,Graduated,7/27/2019,7/27/2019,30
+19845,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2018,Dropped,,,54
+19850,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/14/2017,Graduated,5/20/2022,5/20/2022,38
+19893,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/14/2017,Dropped,,,34
+19911,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/14/2017,Terminated,,,54
+19918,M,Mestizo,Belmopan City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/14/2017,Graduated,6/19/2020,6/19/2020,20
+19954,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/14/2017,Terminated,,,44
+19979,M,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/14/2017,Graduated,5/20/2021,5/20/2021,21
+20012,M,Creole,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/14/2017,Transferred,,,33
+20031,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/14/2017,Graduated,12/12/2019,12/12/2019,21
+20058,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMCN209,COMMUNICATION SKILLS,3,8/14/2017,Terminated,,,25
+20065,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/14/2017,Graduated,5/20/2021,5/20/2021,77
+20101,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2020,In Process,,,40
+20127,M,Garifuna,Belmopan City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2018,Dropped,,,30
+20132,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS242,GUI PROGRAMMING,3,8/14/2017,Dropped,,,32
+20146,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2018,Terminated,,,22
+20160,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2018,Terminated,,,54
+20176,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2018,Dropped,,,38
+20182,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2018,Terminated,,,30
+20183,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/13/2018,Graduated,12/9/2020,12/9/2020,36
+20215,M,Other,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/13/2018,In Process,1/17/2023,1/17/2023,36
+20250,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2018,Dropped,,,20
+20258,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2018,In Process,,,21
+20295,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2018,Terminated,,,32
+20300,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/1/2018,Dropped,,,36
+20310,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PHYS241,GENERAL PHYSICS I,3,8/13/2018,Graduated,5/20/2021,5/20/2021,30
+20345,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/13/2018,Graduated,7/23/2021,7/23/2021,30
+20378,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2018,In Process,,,27
+20407,M,Ketchi,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2018,Terminated,,,45
+20424,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2018,Dropped,,,66
+20437,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2018,Terminated,,,30
+20438,F,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/1/2018,In Process,,,66
+20482,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2018,Terminated,,,24
+20483,M,Creole,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2018,Dropped,,,27
+20520,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/1/2018,In Process,,,30
+20562,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,1/13/2020,Graduated,5/20/2022,5/20/2022,28
+20586,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2018,Terminated,,,20
+20592,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2018,Terminated,,,38
+20601,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2018,Terminated,,,36
+20626,M,Mestizo,SAN PEDRO,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2018,Terminated,,,39
+20627,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/13/2018,Graduated,5/20/2021,5/20/2021,10
+20660,M,Mestizo,STANN CREEK,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2018,Dropped,,,36
+20668,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2018,Terminated,,,2
+20675,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2018,Dropped,,,30
+20710,F,East Indian,DANGRIGA,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2018,Dropped,,,25
+20725,M,Creole,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2018,Dropped,,,18
+20742,F,Other,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/13/2018,Graduated,12/9/2021,12/9/2021,25
+20782,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/1/2018,Dropped,,,30
+20809,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2018,Dropped,,,59
+20821,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2018,Dropped,,,65
+20831,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2018,Terminated,,,77
+20849,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2018,Terminated,,,30
+20858,F,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/13/2018,Graduated,6/19/2020,6/19/2020,35
+20888,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2018,Terminated,,,35
+20912,F,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2020,In Process,,,30
+20934,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2018,Terminated,,,20
+20936,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2018,In Process,,,30
+20969,M,Mestizo,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/13/2018,Graduated,7/23/2021,7/23/2021,25
+21005,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2019,Dropped,,,10
+21023,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2018,Terminated,,,45
+21029,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2018,Terminated,,,30
+21039,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2018,Dropped,,,30
+21049,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/13/2018,Graduated,6/19/2020,6/19/2020,27
+21080,M,Mayan,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/13/2018,Graduated,5/20/2021,5/20/2021,30
+21112,M,Mayan,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/13/2018,Graduated,12/9/2020,12/9/2020,45
+21144,M,Other,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2018,Dropped,,,45
+21171,M,Mayan,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2018,Terminated,,,30
+21185,F,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/13/2018,Graduated,6/19/2020,6/19/2020,27
+21212,F,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2018,Terminated,,,25
+21217,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2018,Terminated,,,63
+21226,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/13/2018,Graduated,5/20/2021,5/20/2021,30
+21262,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/1/2018,Terminated,,,30
+21274,F,East Indian,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2018,Dropped,,,17
+21289,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2018,Terminated,,,21
+21291,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/13/2018,Graduated,5/20/2021,5/20/2021,20
+21323,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/13/2018,Graduated,5/20/2021,5/20/2021,20
+21358,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,1/18/2021,In Process,8/29/2022,8/29/2022,22
+21370,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2021,Dropped,,,6
+21387,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2018,In Process,,,20
+21420,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2022,In Process,,,37
+21425,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2018,Terminated,,,22
+21431,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/1/2019,Terminated,,,10
+21435,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2018,Dropped,,,20
+21456,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS314,ALGORITHMS,3,8/1/2018,Terminated,,,25
+21464,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/13/2018,Graduated,5/20/2022,5/20/2022,30
+21500,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2018,Terminated,,,36
+21509,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/13/2018,Graduated,12/9/2021,12/9/2021,51
+21539,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/13/2018,Graduated,5/18/2020,5/18/2020,51
+21570,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2018,In Process,,,30
+21597,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2018,Terminated,,,66
+21618,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,4,8/15/2022,In Process,,,87
+21629,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2018,Terminated,,,35
+21635,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2018,In Process,,,25
+21673,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2018,Terminated,,,27
+21681,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS312,COMPUTER ORG. & ASSEMBLY LANG. PROG.,3,8/13/2018,Graduated,5/20/2021,5/20/2021,27
+21712,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/13/2018,Graduated,12/9/2021,12/9/2021,30
+21741,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS316,PROGRAMMING LANGUAGES,3,8/13/2018,Graduated,5/20/2022,5/20/2022,25
+21779,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH330,DISCRETE MATHEMATHICS,3,8/1/2018,Terminated,,,20
+21780,F,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2018,Terminated,,,20
+21792,M,Mestizo,SPANISH LOOKOUT,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2018,Dropped,,,21
+21797,M,East Indian,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2021,In Process,,,10
+21811,M,Garifuna,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/13/2018,Graduated,7/22/2022,7/22/2022,25
+21852,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MGMT101,APPLIED MANAGEMENT I,3,8/1/2018,In Process,,,16
+21888,F,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/13/2018,Graduated,5/20/2021,5/20/2021,26
+21918,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2018,Dropped,,,20
+21924,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/14/2019,Dropped,,,28
+21935,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2018,Terminated,,,21
+21947,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2019,Terminated,,,25
+21954,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMCN209,COMMUNICATION SKILLS,3,8/1/2019,Terminated,,,54
+21960,M,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/1/2018,Terminated,,,30
+21961,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/1/2019,Dropped,,,21
+21973,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS213,BASIC PC REPAIR,3,8/1/2019,Dropped,,,36
+21998,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/19/2019,Graduated,5/20/2021,5/20/2021,32
+22025,F,Creole,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2019,Dropped,,,47
+22039,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/19/2019,Graduated,5/20/2022,5/20/2022,30
+22065,M,Unknown,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/1/2019,In Process,,,32
+22096,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMCN209,COMMUNICATION SKILLS,3,8/1/2019,Terminated,,,21
+22106,M,Garifuna,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2019,Dropped,,,66
+22113,M,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,ECON221,PRINCIPLES OF ECONOMICS I (MACRO),3,8/19/2019,In Process,,,27
+22143,M,Ketchi,-,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/1/2019,Dropped,,,45
+22148,M,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2019,Terminated,,,27
+22149,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/15/2022,In Process,,,13
+22157,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS2252,OPERATING SYSTEMS,3,8/19/2019,Graduated,5/20/2022,5/20/2022,27
+22187,F,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2019,In Process,,,27
+22205,F,Mestizo,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2021,In Process,,,45
+22214,F,Garifuna,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2019,Terminated,,,45
+22221,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2019,Terminated,,,25
+22235,M,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/1/2019,Terminated,,,30
+22240,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2019,Terminated,,,56
+22248,M,Mestizo,-,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/19/2019,Graduated,5/20/2021,5/20/2021,52
+22277,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2019,Terminated,,,49
+22279,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/1/2022,In Process,,,20
+22282,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2019,Terminated,,,18
+22297,M,East Indian,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2019,In Process,,,45
+22326,M,Mestizo,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2019,Terminated,,,25
+22337,F,Other,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/19/2019,Graduated,7/23/2021,7/23/2021,45
+22368,M,Mayan,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/1/2019,Dropped,,,18
+22377,M,Ketchi,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/19/2019,Graduated,5/20/2022,5/20/2022,18
+22411,F,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2019,Dropped,,,62
+22417,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2019,In Process,,,72
+22443,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/1/2019,Dropped,,,66
+22449,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2019,In Process,,,54
+22479,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2019,In Process,,,66
+22509,M,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/19/2019,Graduated,5/20/2022,5/20/2022,27
+22539,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2019,Terminated,,,54
+22550,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/19/2019,In Process,1/17/2023,1/17/2023,30
+22584,F,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/17/2020,In Process,1/4/2023,1/4/2023,30
+22608,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2019,Terminated,,,66
+22618,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2019,Dropped,,,22
+22622,M,Unknown,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS2992,PROJECT,3,8/1/2020,In Process,,,42
+22631,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2019,Terminated,,,25
+22638,M,Other,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2019,Transferred,,,38
+22677,M,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2019,Terminated,,,21
+22686,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/15/2022,In Process,,,30
+22691,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/19/2019,Terminated,,,72
+22702,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/1/2019,Terminated,,,27
+22704,F,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2019,In Process,,,54
+22722,M,Other,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS2232,OBJECT ORIENTED SYSTEM DEVELOPMENT,3,8/19/2019,Graduated,12/9/2021,12/9/2021,25
+22752,M,Creole,SAN PEDRO TOWN,BELIZE,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/1/2019,Terminated,,,39
+22762,M,Unknown,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2019,Terminated,,,30
+22767,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,1/1/2021,In Process,,,49
+22777,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2019,Dropped,,,38
+22796,F,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/19/2019,Dropped,,,27
+22820,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2019,In Process,,,63
+22835,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2019,Terminated,,,36
+22850,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2019,Dropped,,,20
+22861,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2019,Terminated,,,10
+22887,M,Other,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2019,Dropped,,,25
+22910,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2019,Terminated,,,28
+22921,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2019,Terminated,,,11
+22940,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2019,In Process,,,36
+22968,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2019,In Process,,,36
+22996,M,Creole,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2019,Terminated,,,16
+23003,F,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2019,Terminated,,,49
+23005,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/19/2019,Graduated,12/9/2021,12/9/2021,25
+23032,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2019,Terminated,,,48
+23042,M,Garifuna,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/1/2019,Dropped,,,45
+23044,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2019,Terminated,,,66
+23051,F,Ketchi,PUNDA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2019,Terminated,,,45
+23061,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2019,Terminated,,,25
+23071,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/1/2019,Dropped,,,30
+23089,F,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2019,Terminated,,,25
+23097,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2020,Terminated,,,45
+23109,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,Terminated,,,24
+23115,M,African,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2022,In Process,,,30
+23125,M,Other,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,1/1/2020,In Process,,,79
+23149,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH101,ALGEBRA 1,3,8/1/2020,In Process,,,28
+23162,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2020,Terminated,,,27
+23174,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2020,In Process,,,32
+23199,M,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/1/2022,In Process,,,27
+23211,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,Terminated,,,65
+23217,F,Creole,BELIZE,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2020,In Process,1/18/2023,1/18/2023,17
+23248,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2020,In Process,,,21
+23268,F,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/17/2020,Graduated,12/9/2022,12/9/2022,54
+23300,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2020,Graduated,7/22/2022,7/22/2022,66
+23330,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2021,Terminated,,,27
+23332,F,East Indian,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2020,Dropped,,,27
+23344,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2020,Graduated,5/20/2022,5/20/2022,66
+23372,F,Creole,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2020,Dropped,,,50
+23388,M,East Indian,-,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2020,In Process,,,30
+23406,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/18/2021,In Process,,,54
+23431,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,Terminated,,,54
+23437,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2020,Dropped,,,66
+23468,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2020,Terminated,,,30
+23476,M,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2020,Terminated,,,66
+23490,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2020,In Process,,,20
+23503,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2020,In Process,,,10
+23527,F,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2020,Terminated,,,30
+23533,M,Other,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/17/2020,Graduated,5/20/2022,5/20/2022,30
+23564,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2020,Terminated,,,30
+23565,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/17/2020,In Process,1/12/2023,1/12/2023,30
+23600,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/15/2022,In Process,,,20
+23609,M,Other,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2020,Terminated,,,36
+23610,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/15/2022,In Process,,,17
+23617,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,In Process,,,22
+23638,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/18/2021,In Process,,,42
+23666,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2020,Dropped,,,56
+23687,M,Garifuna,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2020,Terminated,,,25
+23695,F,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/17/2020,Graduated,5/20/2022,5/20/2022,24
+23725,M,Mestizo,COROZAL TOWN,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/15/2022,In Process,,,13
+23732,M,Other,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/17/2020,Dropped,1/18/2023,1/18/2023,45
+23764,F,Other,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2022,In Process,,,10
+23787,M,Mayan,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/1/2020,In Process,,,45
+23817,M,Other,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,8/17/2020,Graduated,7/22/2022,7/22/2022,45
+23849,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2020,Terminated,,,42
+23855,M,Garifuna,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2020,Terminated,,,10
+23856,M,Creole,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2020,In Process,,,40
+23885,M,Other,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MAT103,TRIGONOMETRY 1,3,1/1/2022,In Process,,,10
+23892,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2020,In Process,,,27
+23919,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,1/17/2023,In Process,,,66
+23921,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2022,In Process,,,10
+23933,M,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/13/2020,In Process,1/4/2023,1/4/2023,6
+23963,M,Creole,Teakettle village,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,Dropped,,,30
+23972,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/17/2020,Graduated,5/20/2022,5/20/2022,10
+24001,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/17/2020,In Process,1/17/2023,1/17/2023,28
+24028,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/17/2020,Graduated,7/22/2022,7/22/2022,32
+24060,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2020,Terminated,,,23
+24061,M,Mestizo,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2020,Terminated,,,71
+24072,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2020,In Process,,,30
+24086,F,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2020,Terminated,,,30
+24093,M,Other,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/17/2020,Graduated,5/20/2022,5/20/2022,25
+24121,M,Mestizo,SANTA ELENA,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/17/2020,In Process,,,21
+24146,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,1/1/2021,In Process,,,17
+24167,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2020,Terminated,,,30
+24173,M,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2020,Terminated,,,30
+24179,F,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2020,Terminated,,,62
+24187,M,Other,SAN IGNACIO TOWN,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2020,Terminated,,,27
+24191,M,Mestizo,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS140,INTRODUCTION TO COMPUTER STUDIES,3,8/1/2021,In Process,,,2
+24194,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/16/2021,In Process,1/3/2023,1/3/2023,20
+24222,F,Creole,Belize City,Belize District,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/1/2022,In Process,,,17
+24226,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2021,In Process,,,30
+24245,M,Other,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/1/2021,In Process,,,35
+24265,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2021,In Process,,,33
+24287,F,Ketchi,CITY OF BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2021,In Process,,,30
+24294,M,Creole,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2021,In Process,,,33
+24315,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/1/2021,In Process,,,33
+24330,F,Creole,-,Cayo,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2021,In Process,,,50
+24358,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/15/2022,In Process,,,20
+24365,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/1/2021,In Process,,,17
+24369,M,Ketchi,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2021,In Process,,,18
+24396,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,1/1/2022,In Process,,,40
+24407,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,1/17/2023,In Process,,,66
+24412,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2021,In Process,,,81
+24420,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2021,In Process,,,56
+24432,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2021,Transferred,,,66
+24443,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2021,Dropped,,,38
+24456,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2021,In Process,,,16
+24485,F,Garifuna,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2021,In Process,,,10
+24509,F,Garifuna,LADYVILLE,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2021,In Process,,,20
+24528,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/16/2021,In Process,,,35
+24556,F,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2021,Terminated,,,54
+24558,M,Oriental,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,1/1/2022,In Process,,,58
+24571,F,Mayan,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2021,In Process,,,81
+24582,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2021,In Process,,,30
+24610,M,Creole,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2021,Dropped,,,7
+24637,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2021,In Process,,,30
+24659,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2021,Dropped,,,38
+24672,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2021,In Process,,,66
+24688,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2021,In Process,,,30
+24696,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MAT205,MECHANICS,3,8/16/2021,In Process,1/17/2023,1/17/2023,27
+24723,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2021,In Process,,,5
+24736,F,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2021,In Process,,,30
+24755,M,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,8/1/2021,In Process,,,19
+24761,M,Mayan,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,8/1/2021,In Process,,,38
+24788,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,SOCL221,INTRODUCTION TO SOCIOLOGY,3,8/1/2021,In Process,,,27
+24814,M,Oriental,ORANGE WALK ROAD,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,1/1/2022,In Process,,,20
+24827,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2021,In Process,,,30
+24832,M,Garifuna,DANGRIGA,STANN CREEK,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/1/2021,Terminated,,,2
+24835,M,Creole,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2021,In Process,,,45
+24858,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2021,In Process,,,18
+24883,F,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2021,In Process,,,22
+24889,M,Creole,-,COROZAL,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2021,Dropped,,,7
+24913,F,Other,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2021,In Process,,,21
+24936,M,Other,-,Cayo,AINT,Information Technology,11,Associate Degree,MATH207,STATISTICS,3,1/17/2023,In Process,,,38
+24939,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PHIL210,ETHICS,3,8/1/2022,In Process,,,13
+24950,M,East Indian,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2022,In Process,,,66
+24955,M,Mestizo,ORANGE WALK TOWN,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/1/2021,In Process,,,33
+24963,M,Mestizo,CITY OF BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/15/2022,In Process,,,30
+24972,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2022,In Process,,,53
+24983,M,Ketchi,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2021,In Process,,,45
+24989,F,Mayan,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2021,In Process,,,45
+25005,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/1/2022,In Process,,,20
+25012,F,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2022,In Process,,,63
+25026,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,1/1/2022,In Process,,,28
+25043,M,Creole,Belize City,Belize District,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,1/1/2022,In Process,,,10
+25054,M,Mayan,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,1/1/2022,In Process,,,79
+25064,F,Other,-,ORANGE WALK,AINT,Information Technology,11,Associate Degree,CMPS144,PRINCIPLES OF PROGRAMMING II,3,1/1/2022,In Process,,,83
+25081,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/1/2022,Dropped,,,63
+25083,M,Mayan,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,8/1/2022,In Process,,,21
+25095,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS255,OBJECT ORIENTED SYSTEM DEV.,3,8/1/2022,In Process,,,66
+25109,M,Mestizo,-,COROZAL,AINT,Information Technology,11,Associate Degree,CMPS256,OPERATING SYSTEMS,3,8/1/2022,In Process,,,72
+25120,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,HURG211,INTRODUCTION TO HUMAN RIGHTS,3,8/1/2022,In Process,,,72
+25134,M,Mestizo,-,TOLEDO,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2022,In Process,,,25
+25148,F,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2022,In Process,,,32
+25163,M,Mestizo,BENQUE VIEJO DEL CARMEN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS260,PROJECT,3,8/1/2022,In Process,,,38
+25177,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2022,In Process,,,53
+25191,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS246,COMPUTER ARCHITECTURE,3,8/1/2022,Dropped,,,53
+25199,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2022,In Process,,,37
+25202,F,Creole,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,8/1/2022,In Process,,,30
+25215,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS157,SYSTEM ANALYSIS,3,8/1/2022,In Process,,,54
+25229,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH125,ADVANCED ALGEBRA,3,8/1/2022,In Process,,,25
+25231,M,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS156,DATA STRUCTURES,3,8/1/2022,In Process,,,81
+25244,M,Mestizo,-,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS245,DATABASE MANAGEMENT SYSTEMS I,3,8/1/2022,Dropped,,,20
+25251,M,African,KANO CITY,Kano state,AINT,Information Technology,11,Associate Degree,CMPS248,SOFTWARE IN SOCIETY,3,8/1/2022,In Process,,,79
+25253,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,MATH104,CALCULUS I,3,8/1/2022,In Process,,,36
+25264,M,Creole,Belmopan City,BELIZE,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2022,In Process,,,20
+25275,M,Creole,DANGRIGA TOWN,STANN CREEK,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/1/2022,In Process,,,25
+25281,M,Mestizo,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,MATH124,TRIGONOMETRY,3,1/16/2022,In Process,,,11
+25285,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS247,COMPUTER NETWORKING I,3,1/17/2023,In Process,,,38
+25290,M,Mestizo,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2022,Dropped,,,54
+25297,F,Garifuna,-,Cayo,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2022,In Process,,,30
+25311,M,Creole,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2022,In Process,,,42
+25321,M,Creole,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,GSTU101,STUDY SKILLS,1,8/1/2022,In Process,,,36
+25336,M,East Indian,-,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2022,In Process,,,36
+25348,M,Mestizo,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,PHIL210,ETHICS,3,8/1/2022,In Process,,,30
+25354,M,Mestizo,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,HIST201,BELIZEAN HISTORY,3,8/1/2022,In Process,,,2
+25365,M,Mestizo,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,CMPS142,PRINCIPLES OF PROGRAMMING I,3,8/1/2022,In Process,,,45
+25378,M,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,ENGL111,COLLEGE ENGLISH I,3,8/1/2022,Graduated,,,30
+25382,M,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2022,Dropped,,,63
+25390,M,Mestizo,Santa Elena Town,Cayo,AINT,Information Technology,11,Associate Degree,PHIL300,PHILOSOPHY OF HUMAN NATURE,3,8/1/2022,In Process,,,21
+25398,F,Mayan,Belmopan City,Cayo,AINT,Information Technology,11,Associate Degree,CMPS145,INTRODUCTION TO COMPUTER SYSTEMS,3,8/1/2022,In Process,,,28
+25409,F,Mestizo,SAN IGNACIO TOWN,Cayo,AINT,Information Technology,11,Associate Degree,SPAN111,SPANISH 1,3,8/1/2022,In Process,,,27
+25421,F,Creole,-,BELIZE,AINT,Information Technology,11,Associate Degree,EDUC324,PSYCHOLOGY OF LEARNING,3,8/1/2022,In Process,,,22
+25428,M,Other,SAN IGNACIO,Cayo,AINT,Information Technology,11,Associate Degree,LITR400,AFRICAN LITERATURE,3,8/1/2022,In Process,,,27
+25442,M,Mayan,-,STANN CREEK,AINT,Information Technology,11,Associate Degree,LITR280,LITERATURE OF THE AMERICAS I,3,8/1/2022,In Process,,,25
+25444,M,Mestizo,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,CMPS155,COMPUTER TECHNOLOGY,3,8/15/2022,Dropped,,,30
+25452,F,Mestizo,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL123,GRAMMAR & USAGE,3,8/1/2022,In Process,,,22
+25457,F,Creole,BELMOPAN,Cayo,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2022,Dropped,,,30
+25464,M,Mayan,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,MATH121,INTERMEDIATE ALGEBRA,3,8/1/2022,In Process,,,62
+25470,F,East Indian,PUNTA GORDA TOWN,TOLEDO,AINT,Information Technology,11,Associate Degree,LITR210,BRITISH LITERATURE,3,8/1/2022,In Process,,,45
+25481,F,Mayan,-,TOLEDO,AINT,Information Technology,11,Associate Degree,ECON101,INTRODUCTION TO ECONOMICS,3,8/14/2023,Dropped,,,18
+25687,F,Unknown,Belize City,BELIZE,AINT,Information Technology,11,Associate Degree,ENGL112,COLLEGE ENGLISH II,3,8/14/2006,Transferred,,,13
+25743,F,Garifuna,PUNTA GORDA,TOLEDO,AINT,Information Technology,11,Associate Degree,PSYC221,INTRO TO PSYCHOLOGY,3,1/16/2006,Dropped,,,13
+,,,,,,,,,,,,,,,,79
+,,,,,,,,,,,,,,,,79
